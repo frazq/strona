@@ -1,1 +1,1 @@
-# strona
+Projekt strony listingowej
